@@ -1,0 +1,4 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+CollisionRecords.txt filter=lfs diff=lfs merge=lfs -text
+PartyRecords.txt filter=lfs diff=lfs merge=lfs -text
+VictimRecords.txt filter=lfs diff=lfs merge=lfs -text
